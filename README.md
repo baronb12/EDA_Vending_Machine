@@ -1,4 +1,4 @@
-# Análisis de Ventas de una Máquina de Café
+# Análisis de Ventas de una Vending Machine de Café
 ## Resumen del Análisis
 El análisis se realizó con datos de ventas de una máquina de café ubicada en un centro comercial en Vinnytsia, Ucrania. El objetivo era identificar patrones, evaluar el rendimiento de los productos y entender el comportamiento de los clientes para optimizar las operaciones y aumentar la rentabilidad.
 
